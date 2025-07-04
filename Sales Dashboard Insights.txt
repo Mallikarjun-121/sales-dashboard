@@ -1,0 +1,16 @@
+ Sales Dashboard Insights
+ 1. The West Region Leads in Sales
+The West region consistently outperforms all others in total sales, indicating a strong customer base or higher demand in that geography.
+
+ 2. December Sees Peak Sales
+There is a noticeable spike in sales every December, suggesting a seasonal trend — possibly due to holiday promotions or end-of-year purchases.
+
+ 3. Technology Category Dominates Revenue
+Among the three main product categories, Technology generates the highest sales, contributing the largest share in the donut chart.
+
+ 4. Central Region Has High Sales but Lower Profit
+Despite strong sales in the Central region, the profit margin is relatively lower, which may indicate high discounts or operational inefficiencies.
+
+ 5. Office Supplies Show Consistent Performance
+While Office Supplies don’t lead in sales, they show steady and balanced performance across all regions, suggesting stable customer demand.
+
